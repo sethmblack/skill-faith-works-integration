@@ -4,7 +4,8 @@ description: Clarify the relationship between faith and works, grace and effort,
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3981
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - faith-works-integration
 - transformation
